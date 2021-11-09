@@ -13,7 +13,7 @@ description: This is meta description
 draft: true
 
 ---
-<p>
+![](/images/f8416b80-3e65-4748-a5c2-dd5f1a22ffa6.jpeg)
 
 <b>Figure 1</b> Typical Belgian Sunday \[1\]
 
